@@ -1,3 +1,2 @@
-# JohnHopkins
-## HTML, CSS, and Javascript for Web Developers
-This repo is for the assignments of the course.
+# HTML-CSS-and-JavaScript-Module3
+The complete assignment
